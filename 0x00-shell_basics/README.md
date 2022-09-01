@@ -1,1 +1,1 @@
-a script that copies all the HTML  files from the current workingdirectory
+creat a symbolic link to /bin/ls, named __ls__
