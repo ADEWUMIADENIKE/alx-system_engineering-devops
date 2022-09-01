@@ -1,1 +1,1 @@
-display current directory content long format with user and group IDs displayed numerically and hidden files
+a script that copies all the HTML  files from the current workingdirectory
