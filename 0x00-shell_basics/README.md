@@ -1,1 +1,1 @@
-delete the directory my_first_directory
+a script that moves all files
