@@ -1,1 +1,1 @@
-a script taht deletes all files
+crerate a magic file
