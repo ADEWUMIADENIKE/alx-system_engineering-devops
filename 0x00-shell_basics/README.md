@@ -1,1 +1,1 @@
-crerate a magic file
+a script that creates the directories
