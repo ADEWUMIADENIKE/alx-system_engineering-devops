@@ -1,1 +1,1 @@
-a script that moves all files
+a script taht deletes all files
