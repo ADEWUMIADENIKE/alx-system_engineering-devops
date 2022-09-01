@@ -1,1 +1,1 @@
-a script that changes the working directory to the previous one
+a script that creats a directory named 6-firstdirectory
