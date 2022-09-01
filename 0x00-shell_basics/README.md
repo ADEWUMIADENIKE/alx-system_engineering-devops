@@ -1,1 +1,1 @@
-creat a symbolic link to /bin/ls, named __ls__
+a script that prints the file name iamafile.
