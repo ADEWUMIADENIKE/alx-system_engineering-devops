@@ -1,1 +1,1 @@
- a script that display the content of a file
+ a script that displays the last ten lines
