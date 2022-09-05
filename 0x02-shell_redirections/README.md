@@ -1,1 +1,1 @@
- a script that displays the last ten lines
+a sript to display the first 10 lines
