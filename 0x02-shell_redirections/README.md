@@ -1,1 +1,1 @@
-a script that removes all letter c
+a script that displays all users
