@@ -1,1 +1,1 @@
-a sript to reverse its input
+a script that removes all letter c

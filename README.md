@@ -1,1 +1,1 @@
-dont just coun your directories,make them
+without c you would live in hiago
