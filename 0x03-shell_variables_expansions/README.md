@@ -1,1 +1,1 @@
-a script that count the number of directories
+a script that list all local variables
