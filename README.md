@@ -1,1 +1,1 @@
-no more javascript
+dont just coun your directories,make them
