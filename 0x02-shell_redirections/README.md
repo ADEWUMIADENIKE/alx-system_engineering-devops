@@ -1,1 +1,1 @@
-a script that dulpicates the last line
+a script that delete all regular files
