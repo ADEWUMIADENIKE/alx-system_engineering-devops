@@ -1,1 +1,1 @@
-hello you
+path to success is to take massive determination
