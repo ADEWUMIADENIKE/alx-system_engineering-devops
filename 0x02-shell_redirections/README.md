@@ -1,1 +1,1 @@
-a scrit that delet all regular file
+a script that counts
