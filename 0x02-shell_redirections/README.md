@@ -1,1 +1,1 @@
-a script that count the number of directories
+a sript to reverse its input
