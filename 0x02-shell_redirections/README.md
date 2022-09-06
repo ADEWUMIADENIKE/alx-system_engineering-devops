@@ -1,1 +1,1 @@
-a script that displays the third line of a file
+a script that writes in the file
