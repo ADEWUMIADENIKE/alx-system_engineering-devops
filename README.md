@@ -1,1 +1,1 @@
-path to success is to take massive determination
+if the path be beautiful

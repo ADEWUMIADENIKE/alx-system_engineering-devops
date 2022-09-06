@@ -1,1 +1,1 @@
-a script that add action to the path
+a script that count the number of directories
