@@ -1,1 +1,1 @@
-a script that writes in the file
+a script that dulpicates the last line
