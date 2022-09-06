@@ -1,1 +1,1 @@
-a script that displays all users
+a scrit that delet all regular file
