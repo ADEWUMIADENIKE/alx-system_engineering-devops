@@ -1,1 +1,1 @@
-a script that prints all possible combination
+a script that prints all possible combinations
