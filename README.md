@@ -1,1 +1,1 @@
-divide an rule
+love is anterior to life

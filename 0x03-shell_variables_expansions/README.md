@@ -1,1 +1,1 @@
-a script that prints the result of power divide
+a script that display the result of breath
