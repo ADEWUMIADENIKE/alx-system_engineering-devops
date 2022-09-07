@@ -1,1 +1,1 @@
-love is anterior to life
+there are ten types of peple in the world
