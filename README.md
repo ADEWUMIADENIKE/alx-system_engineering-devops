@@ -1,1 +1,1 @@
-every addition to true knowledge
+true knowledge

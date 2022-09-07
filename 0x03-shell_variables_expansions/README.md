@@ -1,1 +1,1 @@
-a scriptthat prints the result of he additiona of 128
+a script that prints the adiition of 128
