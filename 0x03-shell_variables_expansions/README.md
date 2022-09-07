@@ -1,1 +1,1 @@
-a script that prints the adiition of 128
+a script that prints the result of power divide
