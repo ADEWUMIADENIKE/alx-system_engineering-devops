@@ -1,1 +1,1 @@
-global variable
+every addition to true knowledge
